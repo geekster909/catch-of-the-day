@@ -1,7 +1,7 @@
 # catch-of-the-day
 
 
-## for github.io 
+## for github.io/server
 
 #### package.json
 
